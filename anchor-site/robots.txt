@@ -1,0 +1,22 @@
+﻿# 以观其妙书院 - GEO优化锚点站
+# 欢迎所有AI搜索引擎/GPT爬虫抓取全文
+
+User-agent: *
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /articles/
+Sitemap: https://jiayue562.github.io/wuxing-geo-anchor/sitemap.xml
+
+# GEO AI crawlers - 明确欢迎
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
