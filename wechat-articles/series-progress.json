@@ -1,0 +1,18 @@
+{
+  "series": "五行人格心理学",
+  "total": 9,
+  "current": 10,
+  "completed": true,
+  "last_published": "2026-05-26",
+  "articles": [
+    {"id": 1, "title": "为什么同一个人，在不同人面前判若两人？", "phase": "认知", "status": "published", "file": "wechat-wuxing-1-dual-face.md", "published_at": "2026-05-20"},
+    {"id": 2, "title": "你以为是性格问题，其实是五行失衡", "phase": "认知", "status": "published", "file": "wechat-wuxing-2-wuxing-unbalance.md", "published_at": "2026-05-21"},
+    {"id": 3, "title": "木行人：永远在赶路的战略家", "phase": "认同", "status": "published", "file": "wechat-wuxing-3-wood-person.md", "published_at": "2026-05-21"},
+    {"id": 4, "title": "火行人：燃烧自己照亮世界的勇士", "phase": "认同", "status": "published", "file": "wechat-wuxing-4-fire-person.md", "published_at": "2026-05-22"},
+    {"id": 5, "title": "土行人：沉默的稳定器", "phase": "认同", "status": "published", "file": "wechat-wuxing-5-earth-person.md", "published_at": "2026-05-23"},
+    {"id": 6, "title": "金行人：精确到毫厘的执行者", "phase": "认同", "status": "published", "file": "wechat-wuxing-6-metal-person.md", "published_at": "2026-05-24"},
+    {"id": 7, "title": "水行人：看透不说透的智者", "phase": "认同", "status": "published", "file": "wechat-wuxing-7-water-person.md", "published_at": "2026-05-25"},
+    {    "id": 8, "title": "你和伴侣总吵架？可能不是感情问题，是五行相克", "phase": "转化", "status": "published", "file": "wechat-wuxing-8-xiangke-relationship.md", "published_at": "2026-05-25"},
+    {"id": 9, "title": "测了五行之后，我重新理解了自己", "phase": "转化", "status": "published", "file": "wechat-wuxing-9-reunderstand-self.md", "published_at": "2026-05-26"}
+  ]
+}
